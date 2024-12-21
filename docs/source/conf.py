@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'PhIAT'
-copyright = '2024, TITAN Collaboration'
-author = 'TITAN Collaboration'
+copyright = '2024, TRIUMF TITAN Collaboration'
+author = 'TRIUMF TITAN Collaboration'
 
 release = '0.1'
 version = '0.1.0'
